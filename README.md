@@ -1,12 +1,32 @@
-<h1 align="center">Hi 👋, I'm Mayank</h1>
-<h2 align="center">Creating and learning with one line at a time.</h2>
+<h1 align="center">Hello world 👋! I'm Mayank</h1>
+<h2 align="left"><i>Creating and learning with one line at a time.</i></h2>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img align="center" src="https://github.com/Mayank808/mayank808/assets/70068077/d7150e1a-6439-467c-9eef-2a5a97f78710" alt="mayank808" />
+</p>
+
+<h2 align="left">About me</h2>
+<p>
+  Hey there! 👨‍💻 I'm a 3A Computer Science student at the University of Waterloo, armed with over 1 year of battle-tested experience in the software engineering realm. 🚀 I thrive on diving headfirst into challenges and being able to contribute to dynamic teams tackling interesting problems. Always hungry to acquire new skills and also eat good food. 🍜 I bring a technically agile mindset to the table, being able to ramp up quickly on any project. 💡 Outside of the tech realm, I find joy in cooking 🍳, playing volleyball 🏐, and indulging in a good film 🎬.
+</p>
+
+<p>Previously built projects at: </p>
+<ul>
+  <li>Full Stack & Data Engineer @ <a href="https://www.rbc.com/investor-relations/" target="blank">RBC Investor Services</a>: August 2023 - Present 🏦💻</li>
+  <li>Software Engineer @ <a href="https://radish.coop/" target="blank">Radish Coop</a>: January 2023 - May 2023 🍲👁️</li>
+  <li>Full Stack & Mobile Engineer @ <a href="https://www.ugosolutions.com/en/" target="blank">UGO - TD Bank Groups</a>: May 2022 - August 2022 🏡📱💳</li>
+</ul>
+
+<p>Please feel free to connect and reach out to me! 🤝🌐</p>
+
+<h2 align="left">Connect with me!</h2>
 <p align="center">
   <a href="https://linkedin.com/in/mayank808" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mayank808"/></a>
   <a href="https://www.mayankmehra.tech/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mayank808"/></a>
+  <a href="[https://www.mayankmehra.tech/](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mayank808"/></a>
   <a href="mailto:m4mehra@uwaterloo.ca?subject=Hey%20lets%20connect!&body=Looking%20forward%20to%20getting%20your%20message!" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mayank808"/></a>
   <a href="https://instagram.com/mayank.808" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://calendly.com/mayank808/schedule" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" alt="mayank808" /></a>
   <a href="https://www.leetcode.com/mayank_808" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="mayank808" /></a>
   <a href="https://open.spotify.com/user/315ak4sviyiiqha6ntv3zyhbd5qa" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="mayank808" /></a>
 </p>
@@ -52,13 +72,36 @@
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="mayank.808" /></a>
 </p>
 
 <h3 align="left">Tools & Testing</h3>
 <p align="center">
-<a href="https://github.com/Mayank808/" target="blank"><img align="center" src="" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="mayank.808" /></a>
 </p>
 
-<p align="left"> 
+<br/>
+<p align="center"> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank808&" alt="mayank808" />
 </p>
