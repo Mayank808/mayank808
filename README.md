@@ -21,9 +21,9 @@
 
 <h2 align="left">Connect with me!</h2>
 <p align="center">
+  <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white" alt="mayank808"/></a>
   <a href="https://linkedin.com/in/mayank808" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mayank808"/></a>
   <a href="https://www.mayankmehra.tech/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mayank808"/></a>
-  <a href="[https://www.mayankmehra.tech/](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mayank808"/></a>
   <a href="mailto:m4mehra@uwaterloo.ca?subject=Hey%20lets%20connect!&body=Looking%20forward%20to%20getting%20your%20message!" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mayank808"/></a>
   <a href="https://instagram.com/mayank.808" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mayank.808" /></a>
   <a href="https://calendly.com/mayank808/schedule" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" alt="mayank808" /></a>
@@ -99,9 +99,4 @@
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="mayank.808" /></a>
-</p>
-
-<br/>
-<p align="center"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank808&" alt="mayank808" />
 </p>
