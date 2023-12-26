@@ -7,7 +7,7 @@
 
 <h2 align="left">About me</h2>
 <p>
-  Hey there! 👨‍💻 I'm a 3A Computer Science student at the University of Waterloo, armed with over 1 year of battle-tested experience in the software engineering realm. 🚀 I thrive on diving headfirst into challenges and being able to contribute to dynamic teams tackling interesting problems. Always hungry to acquire new skills and also eat good food. 🍜 I bring a technically agile mindset to the table, being able to ramp up quickly on any project. 💡 Outside of the tech realm, I find joy in cooking 🍳, playing volleyball 🏐, and indulging in a good film 🎬.
+  Hey there! I'm a 3A Computer Science student 👨‍💻 at the University of Waterloo, with over 1 year of experience in the software engineering realm. 🚀 I thrive on diving headfirst into challenges and being able to contribute to dynamic teams tackling interesting problems. Always hungry to acquire new skills and also eat good food. 🍜 I bring a technically agile mindset to the table, being able to ramp up quickly on any project. 💡 Outside of the tech realm, I find joy in cooking 🍳, playing volleyball 🏐, and indulging in a good film 🎬.
 </p>
 
 <p>Previously built projects at: </p>
