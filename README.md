@@ -21,7 +21,7 @@
 
 <h2 align="left">Connect with me!</h2>
 <p align="center">
-  <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white" alt="mayank808"/></a>
+  <a href="https://www.mayankmehra.tech/resume" target="blank"><img align="center" src="https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white" alt="mayank808"/></a>
   <a href="https://linkedin.com/in/mayank808" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mayank808"/></a>
   <a href="https://www.mayankmehra.tech/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mayank808"/></a>
   <a href="mailto:m4mehra@uwaterloo.ca?subject=Hey%20lets%20connect!&body=Looking%20forward%20to%20getting%20your%20message!" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mayank808"/></a>
