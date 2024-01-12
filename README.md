@@ -1,4 +1,4 @@
-<h1 align="center">Hello world 👋! I'm Mayank</h1>
+<h1 align="center">Hello world <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />! I'm Mayank</h1>
 <h2 align="left"><i>Creating and learning with one line at a time.</i></h2>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 <h2 align="left">About me</h2>
 <p>
-  Hey there! I'm a 3A Computer Science student 👨‍💻 at the University of Waterloo, with over 1 year of work experience as a software engineering 🚀 I thrive at diving headfirst into challenges and being able to contribute to dynamic teams tackling interesting problems. Always hungry to acquire new skills and also eat good food. 🍜 I bring a technically agile mindset to the table, being able to ramp up quickly on any project and team. 💡 Outside of the tech realm, I find joy in cooking 🍳, playing volleyball 🏐, and indulging in a good film 🎬.
+  Hey there! I'm a 3A Computer Science student <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="20" height="20" /> at the University of Waterloo, with over 1 year of work experience as a software engineering <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> I thrive at diving headfirst into challenges and being able to contribute to dynamic teams tackling interesting problems. Always hungry to acquire new skills and also eat good food. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Tropical%20Drink.png" alt="Tropical Drink" width="20" height="20" /> I bring a technically agile mindset to the table, being able to ramp up quickly on any project and team. 💡 Outside of the tech realm, I find joy in cooking 🍳, playing volleyball 🏐, and indulging in a good film 🎬.
 </p>
 
 <p>Previously built projects at: </p>
