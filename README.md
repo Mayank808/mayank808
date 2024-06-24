@@ -40,12 +40,12 @@
 <h3 align="left">Languages</h3>
 <p align="left"> 
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="mayank.808" /></a>
+    <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="mayank.808" /></a>
-  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="mayank.808" /></a>
-  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="mayank.808" /></a>
-  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="mayank.808" /></a>
+  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=kotlin&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="mayank.808" /></a>
 </p>
