@@ -29,7 +29,6 @@
   <a href="https://linkedin.com/in/mayank808" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mayank808"/></a>
   <a href="https://mayankmehra.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mayank808"/></a>
   <a href="mailto:m4mehra@uwaterloo.ca?subject=Hey%20lets%20connect!&body=Looking%20forward%20to%20getting%20your%20message!" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mayank808"/></a>
-  <a href="https://instagram.com/mayank.808" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mayank.808" /></a>
   <a href="https://calendly.com/mayank808/schedule" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" alt="mayank808" /></a>
   <a href="https://www.leetcode.com/mayank_808" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="mayank808" /></a>
   <a href="https://open.spotify.com/user/315ak4sviyiiqha6ntv3zyhbd5qa" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="mayank808" /></a>
@@ -81,6 +80,7 @@
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="mayank.808" /></a>
+   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mayank.808" /></a>
@@ -88,5 +88,4 @@
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="mayank.808" /></a>
-  <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="mayank.808" /></a>
 </p>
