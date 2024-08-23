@@ -34,6 +34,7 @@
   <a href="https://open.spotify.com/user/315ak4sviyiiqha6ntv3zyhbd5qa" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="mayank808" /></a>
 </p>
 
+<!---
 <h2 align="left">My Skills</h2>
 
 <h3 align="left">Languages</h3>
@@ -89,3 +90,4 @@
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="mayank.808" /></a>
   <a href="https://github.com/Mayank808/" target="blank"><img align="center" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="mayank.808" /></a>
 </p>
+-->
