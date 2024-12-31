@@ -31,7 +31,7 @@
   <a href="mailto:m4mehra@uwaterloo.ca?subject=Hey%20lets%20connect!&body=Looking%20forward%20to%20getting%20your%20message!" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mayank808"/></a>
   <a href="https://calendly.com/mayank808/schedule" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" alt="mayank808" /></a>
   <a href="https://www.leetcode.com/mayank_808" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="mayank808" /></a>
-  <a href="https://open.spotify.com/user/315ak4sviyiiqha6ntv3zyhbd5qa" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="mayank808" /></a>
+<!--   <a href="https://open.spotify.com/user/315ak4sviyiiqha6ntv3zyhbd5qa" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="mayank808" /></a> -->
 </p>
 
 <!---
