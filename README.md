@@ -1,5 +1,5 @@
 <h1 align="center">Hello world <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />! I'm Mayank</h1>
-<h2 align="left"><i>Creating and learning with one line at a time.</i></h2>
+<!-- <h2 align="left"><i>Creating and learning with one line at a time.</i></h2> -->
 
 <p align="center">
   <img align="center" src="https://github.com/Mayank808/mayank808/assets/70068077/d7150e1a-6439-467c-9eef-2a5a97f78710" alt="mayank808" />
