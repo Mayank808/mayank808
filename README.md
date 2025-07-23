@@ -12,6 +12,8 @@
 
 <p>Built projects as a: </p>
 <ul>
+   <li>Software Engineer @ <a href="https://www.bloomberg.com" target="blank">Bloomberg</a>: September 2025 - December 2025 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dollar%20Banknote.png" alt="Dollar Banknote" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" />
+     
    <li>Backend Engineer @ <a href="https://x.com" target="blank">X (Twitter)</a>: May 2025 - August 2025 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone%20with%20Arrow.png" alt="Mobile Phone with Arrow" width="30" height="30" />
      
   <li>Software Engineer @ <a href="https://www.faire.com" target="blank">Faire</a>: May 2024 - August 2024 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Convenience%20Store.png" alt="Convenience Store" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Shopping Cart" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20with%20Wings.png" alt="Money with Wings" width="30" height="30" /></li>
